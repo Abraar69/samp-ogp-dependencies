@@ -20,7 +20,7 @@ echo -e "
 ██████╦╝░░░██║░░░  ██║░░██║██████╦╝██║░░██║██║░░██║██║░░██║██║░░██║
 ╚═════╝░░░░╚═╝░░░  ╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝"
 
-while read package
-do
-apt install ${package} -y
-done < requirement.txt
+apt_update() {
+apt-get update
+apt-get upgrade
+}
