@@ -1,10 +1,8 @@
 #!/bin/bash
 
-apt_update() {
 apt-get update
 apt-get upgrade
-}
-apt_update;
+
 
 echo -e "
 ██████╗░███████╗██████╗░███████╗███╗░░██╗██████╗░███████╗███╗░░██╗░█████╗░██╗███████╗░██████╗
