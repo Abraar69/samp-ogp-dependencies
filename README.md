@@ -1,9 +1,18 @@
 # SA-MP SERVER DEPENDENCIES
-## Description*
+## Description
 These are the dependencies required to be installed in your virtual machine to run **San Andreas Multiplayer Server**
 
 ## Installation
-```bash <(curl https://raw.githubusercontent.com/Abraar69/samp-ogp-dependencies/main/main.sh)```
+## Ubuntu 20.04
+```bash <(curl https://raw.githubusercontent.com/Abraar69/samp-server-dependencies/main/ubuntu-20.04.sh)```
+## Ubuntu 20.10
+```bash <(curl https://raw.githubusercontent.com/Abraar69/samp-server-dependencies/main/ubuntu-20.10.sh)```
+## CentOS
+```bash <(curl https://raw.githubusercontent.com/Abraar69/samp-server-dependencies/main/centOS.sh)```
+## Debian 10
+```bash <(curl https://raw.githubusercontent.com/Abraar69/samp-server-dependencies/main/debian-10.sh)```
+## Debian 11
+```bash <(curl https://raw.githubusercontent.com/Abraar69/samp-server-dependencies/main/debian-11.sh)```
 
 # Issues while installing?
 Contact me on Discord: Abraar.#2864
