@@ -2,9 +2,9 @@
 ## Description
 These are the dependencies required to be installed in your virtual machine to run **San Andreas Multiplayer Server**
 # Minimum Requirements
-## Ubuntu 16.04 LTS
-## Debian Debian 9
-## Centos CentOS 7
+Ubuntu 16.04 LTS
+Debian Debian 9
+Centos CentOS 7
 
 ## Installation
 ## Ubuntu 20.04
