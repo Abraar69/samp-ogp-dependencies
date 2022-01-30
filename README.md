@@ -14,5 +14,6 @@ These are the dependencies required to be installed in your virtual machine to r
 ## Debian 11
 ```bash <(curl https://raw.githubusercontent.com/Abraar69/samp-server-dependencies/main/debian-11.sh)```
 
-# Issues while installing?
-Contact me on Discord: Abraar.#2864
+# Contact
+Discord: Abraar.#2864
+Instagram: abraar69
