@@ -1,7 +1,7 @@
-# SAMP OGP DEPENDENCIES
+# SA-MP SERVER DEPENDENCIES
 ## Description
-OGP is a game server hosting platform but some dependencies must be installed for SA-MP Server else you will face 
-### ```"Failed to query the server"```
+These are the dependencies required to be installed in your virtual machine to run San Andreas Multiplayer Server
+
 ## Installation
 ```bash <(curl https://raw.githubusercontent.com/Abraar69/samp-ogp-dependencies/main/main.sh)```
 
